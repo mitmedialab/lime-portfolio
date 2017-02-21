@@ -3,10 +3,10 @@
   <channel>
     <title>Ben Bitdiddle</title>
     <description>Software Developer</description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 21 Feb 2017 18:00:58 -0500</pubDate>
-    <lastBuildDate>Tue, 21 Feb 2017 18:00:58 -0500</lastBuildDate>
+    <link>http://localhost:4000/lime-portfolio//</link>
+    <atom:link href="http://localhost:4000/lime-portfolio//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 21 Feb 2017 18:23:53 -0500</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2017 18:23:53 -0500</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -19,8 +19,8 @@
 
 </description>
         <pubDate>Sun, 21 Aug 2016 11:04:23 -0400</pubDate>
-        <link>http://localhost:4000//2016/project1/</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/project1/</guid>
+        <link>http://localhost:4000/lime-portfolio//2016/project1/</link>
+        <guid isPermaLink="true">http://localhost:4000/lime-portfolio//2016/project1/</guid>
         
         <category>VR</category>
         
