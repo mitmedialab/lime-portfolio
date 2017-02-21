@@ -1,0 +1,14 @@
+---
+title:  "Sample Project - Sphyria"
+date:   2016-08-21 15:04:23
+categories: [VR, Syria]
+tags: [VR, Syria]
+---
+Sphyria is a VR application that can be viewed with a smartphone using Google cardboard. It showcases a map of Syria on top of which the user stands. On that map are multiple 360 photospheres. The user can click on any of these photospheres and be able to view a 360 picture from Syria in 3D. Within that photosphere the user can hear recordings of memories that other Syrians in the diaspora have recorded for that place as well as record their own.
+
+Checkout the app on the [Play Store][app] and the [Source Code][source] on github.
+
+![Image of Sphyria](/images/Sphyria.png)
+
+[app]: 		https://play.google.com/store/apps/details?id=com.MITMediaLab.Homefulness
+[source]: https://github.com/ml-learning/Sphyria

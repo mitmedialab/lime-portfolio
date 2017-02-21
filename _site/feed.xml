@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Bitdiddle</title>
+    <description>Software Developer</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 21 Feb 2017 18:00:58 -0500</pubDate>
+    <lastBuildDate>Tue, 21 Feb 2017 18:00:58 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Sample Project - Sphyria</title>
+        <description>&lt;p&gt;Sphyria is a VR application that can be viewed with a smartphone using Google cardboard. It showcases a map of Syria on top of which the user stands. On that map are multiple 360 photospheres. The user can click on any of these photospheres and be able to view a 360 picture from Syria in 3D. Within that photosphere the user can hear recordings of memories that other Syrians in the diaspora have recorded for that place as well as record their own.&lt;/p&gt;
+
+&lt;p&gt;Checkout the app on the &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.MITMediaLab.Homefulness&quot;&gt;Play Store&lt;/a&gt; and the &lt;a href=&quot;https://github.com/ml-learning/Sphyria&quot;&gt;Source Code&lt;/a&gt; on github.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Sphyria.png&quot; alt=&quot;Image of Sphyria&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 21 Aug 2016 11:04:23 -0400</pubDate>
+        <link>http://localhost:4000//2016/project1/</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/project1/</guid>
+        
+        <category>VR</category>
+        
+        <category>Syria</category>
+        
+        
+        <category>VR</category>
+        
+        <category>Syria</category>
+        
+      </item>
+    
+  </channel>
+</rss>

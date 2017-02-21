@@ -1,0 +1,39 @@
+# Site settings
+title: Ben Bitdiddle
+description: 'Software Developer'
+url: 'http://benbitdiddle12.github.io/'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Ben Bitdiddle'
+  email: benbitdiddle12@gmail.com
+  twitter_username: benbitdiddle12
+  facebook_username: benbitdiddle12
+  github_username:  benbitdiddle12
+  linkedin_username:  benbitdiddle12
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
